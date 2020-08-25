@@ -1,0 +1,1931 @@
+{
+  "collaborative": false,
+  "description": "Stream Giveon&#x27;s new EP &#x27;TAKE TIME&#x27;, plus other favorites.",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/6iBOHQq18scMsGnLJFkMk0"
+  },
+  "followers": {
+    "href": null,
+    "total": 4080
+  },
+  "href": "https://api.spotify.com/v1/playlists/6iBOHQq18scMsGnLJFkMk0",
+  "id": "6iBOHQq18scMsGnLJFkMk0",
+  "images": [
+    {
+      "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da849291bb3bb46ea70ea1dee272",
+      "width": null
+    }
+  ],
+  "name": "TAKE TIME",
+  "owner": {
+    "display_name": "Giveon",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+    },
+    "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+    "id": "h00jimx4c2fa4nd7zwaqr5obv",
+    "type": "user",
+    "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MjIsMjE2NGYyM2ZlMWViYmE0NDUyYzE0OTUxM2QxNzBlZTcwNWQxMTZhMw==",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/playlists/6iBOHQq18scMsGnLJFkMk0/tracks?offset=0&limit=100&market=US",
+    "items": [
+      {
+        "added_at": "2020-05-01T19:34:10Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+            },
+            "href": "https://api.spotify.com/v1/albums/6OQ9gBfg5EXeNAEwGSs6jK",
+            "id": "6OQ9gBfg5EXeNAEwGSs6jK",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+                "width": 64
+              }
+            ],
+            "name": "Dark Lane Demo Tapes",
+            "release_date": "2020-05-01",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+              },
+              "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+              "id": "3TVXtAsR1Inumwj472S9r4",
+              "name": "Drake",
+              "type": "artist",
+              "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 220487,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USUG12001407"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4wVOKKEHUJxHCFFNUWDn0B",
+          "id": "4wVOKKEHUJxHCFFNUWDn0B",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Chicago Freestyle (feat. Giveon)",
+          "popularity": 89,
+          "preview_url": "https://p.scdn.co/mp3-preview/5dafb0d15031bcba58fef36bc30f7cfd6b31892d?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:4wVOKKEHUJxHCFFNUWDn0B"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-03-27T04:26:36Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zHR48K6XtWYm6bhrw4J6C",
+            "id": "1zHR48K6XtWYm6bhrw4J6C",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118ff322fcdd47c9400872da6",
+                "width": 64
+              }
+            ],
+            "name": "TAKE TIME",
+            "release_date": "2020-03-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 205663,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM12001672"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2Hd7uGbl8PX0IxyX59VFOg",
+          "id": "2Hd7uGbl8PX0IxyX59VFOg",
+          "is_local": false,
+          "is_playable": true,
+          "name": "THE BEACH",
+          "popularity": 61,
+          "preview_url": "https://p.scdn.co/mp3-preview/7bb57c352d04506337e3032b923693b57c3cb235?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2Hd7uGbl8PX0IxyX59VFOg"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-03-27T04:26:36Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zHR48K6XtWYm6bhrw4J6C",
+            "id": "1zHR48K6XtWYm6bhrw4J6C",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118ff322fcdd47c9400872da6",
+                "width": 64
+              }
+            ],
+            "name": "TAKE TIME",
+            "release_date": "2020-03-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 193466,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM11914369"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/51Ful1v7b81FchIFFTAQ05"
+          },
+          "href": "https://api.spotify.com/v1/tracks/51Ful1v7b81FchIFFTAQ05",
+          "id": "51Ful1v7b81FchIFFTAQ05",
+          "is_local": false,
+          "is_playable": true,
+          "name": "WORLD WE CREATED",
+          "popularity": 60,
+          "preview_url": "https://p.scdn.co/mp3-preview/f300d3ff0a5f3797cda7ac20e1725d881dcbcd1e?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:51Ful1v7b81FchIFFTAQ05"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-03-27T04:26:36Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zHR48K6XtWYm6bhrw4J6C",
+            "id": "1zHR48K6XtWYm6bhrw4J6C",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118ff322fcdd47c9400872da6",
+                "width": 64
+              }
+            ],
+            "name": "TAKE TIME",
+            "release_date": "2020-03-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 45282,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM12001673"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Db89SEt6KpQj4gMqcdKM4"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3Db89SEt6KpQj4gMqcdKM4",
+          "id": "3Db89SEt6KpQj4gMqcdKM4",
+          "is_local": false,
+          "is_playable": true,
+          "name": "TAKE TIME (INTERLUDE)",
+          "popularity": 53,
+          "preview_url": "https://p.scdn.co/mp3-preview/748e6c13790a9a8d93af6d8be70a938977a0f98b?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:3Db89SEt6KpQj4gMqcdKM4"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-03-27T04:26:36Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zHR48K6XtWYm6bhrw4J6C",
+            "id": "1zHR48K6XtWYm6bhrw4J6C",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118ff322fcdd47c9400872da6",
+                "width": 64
+              }
+            ],
+            "name": "TAKE TIME",
+            "release_date": "2020-03-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 172907,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM12001674"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4rHIfYRQw6ittRQXAlurk0",
+          "id": "4rHIfYRQw6ittRQXAlurk0",
+          "is_local": false,
+          "is_playable": true,
+          "name": "FAVORITE MISTAKE",
+          "popularity": 65,
+          "preview_url": "https://p.scdn.co/mp3-preview/38313ad992797b476c39d3145d340c0c4e668604?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:4rHIfYRQw6ittRQXAlurk0"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-03-27T04:26:36Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zHR48K6XtWYm6bhrw4J6C",
+            "id": "1zHR48K6XtWYm6bhrw4J6C",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118ff322fcdd47c9400872da6",
+                "width": 64
+              }
+            ],
+            "name": "TAKE TIME",
+            "release_date": "2020-03-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 164967,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USSM12001675"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5Y7dUgG3vyx3541JagbWvv"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5Y7dUgG3vyx3541JagbWvv",
+          "id": "5Y7dUgG3vyx3541JagbWvv",
+          "is_local": false,
+          "is_playable": true,
+          "name": "THIS AIN'T LOVE",
+          "popularity": 56,
+          "preview_url": "https://p.scdn.co/mp3-preview/ef3f25986c3723f7211e01f0bcccc3b0bc7b9a19?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:5Y7dUgG3vyx3541JagbWvv"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-03-27T04:26:36Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zHR48K6XtWYm6bhrw4J6C",
+            "id": "1zHR48K6XtWYm6bhrw4J6C",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118ff322fcdd47c9400872da6",
+                "width": 64
+              }
+            ],
+            "name": "TAKE TIME",
+            "release_date": "2020-03-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 198370,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM12000998"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3FAJ6O0NOHQV8Mc5Ri6ENp",
+          "id": "3FAJ6O0NOHQV8Mc5Ri6ENp",
+          "is_local": false,
+          "is_playable": true,
+          "name": "HEARTBREAK ANNIVERSARY",
+          "popularity": 63,
+          "preview_url": "https://p.scdn.co/mp3-preview/071f95763a78049a4856d7d25a185234fc911cef?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-03-27T04:26:36Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zHR48K6XtWYm6bhrw4J6C",
+            "id": "1zHR48K6XtWYm6bhrw4J6C",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118ff322fcdd47c9400872da6",
+                "width": 64
+              }
+            ],
+            "name": "TAKE TIME",
+            "release_date": "2020-03-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 260776,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM11914370"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6qBFSepqLCuh5tehehc1bd",
+          "id": "6qBFSepqLCuh5tehehc1bd",
+          "is_local": false,
+          "is_playable": true,
+          "name": "LIKE I WANT YOU",
+          "popularity": 70,
+          "preview_url": "https://p.scdn.co/mp3-preview/db3fb6832b4ad68c6cf82de77030b5a87366df09?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:6qBFSepqLCuh5tehehc1bd"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-03-27T04:26:36Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zHR48K6XtWYm6bhrw4J6C",
+            "id": "1zHR48K6XtWYm6bhrw4J6C",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218ff322fcdd47c9400872da6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118ff322fcdd47c9400872da6",
+                "width": 64
+              }
+            ],
+            "name": "TAKE TIME",
+            "release_date": "2020-03-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+              },
+              "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+              "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+              "name": "Giveon",
+              "type": "artist",
+              "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 209406,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM12001676"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0ECWkqtSIryUYVjyJMr0yA"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0ECWkqtSIryUYVjyJMr0yA",
+          "id": "0ECWkqtSIryUYVjyJMr0yA",
+          "is_local": false,
+          "is_playable": true,
+          "name": "VANISH",
+          "popularity": 58,
+          "preview_url": "https://p.scdn.co/mp3-preview/7a6aa47021890b463de5bbf8ed25cc3074d1325a?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:0ECWkqtSIryUYVjyJMr0yA"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:22:48Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+                },
+                "href": "https://api.spotify.com/v1/artists/0f2YkMXwFNJNSX7MymevKE",
+                "id": "0f2YkMXwFNJNSX7MymevKE",
+                "name": "Kaash Paige",
+                "type": "artist",
+                "uri": "spotify:artist:0f2YkMXwFNJNSX7MymevKE"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
+            },
+            "href": "https://api.spotify.com/v1/albums/5CEfb4A8SgiCOY6R7c7s34",
+            "id": "5CEfb4A8SgiCOY6R7c7s34",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27387a86b99f8dde9c7d7e3bf62",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0287a86b99f8dde9c7d7e3bf62",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485187a86b99f8dde9c7d7e3bf62",
+                "width": 64
+              }
+            ],
+            "name": "Parked Car Convos",
+            "release_date": "2019-11-15",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:5CEfb4A8SgiCOY6R7c7s34"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+              },
+              "href": "https://api.spotify.com/v1/artists/0f2YkMXwFNJNSX7MymevKE",
+              "id": "0f2YkMXwFNJNSX7MymevKE",
+              "name": "Kaash Paige",
+              "type": "artist",
+              "uri": "spotify:artist:0f2YkMXwFNJNSX7MymevKE"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 148640,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZES71881447"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6qL5UWxRSQYml9O99ozoLv",
+          "id": "6qL5UWxRSQYml9O99ozoLv",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Love Songs - Bonus",
+          "popularity": 76,
+          "preview_url": "https://p.scdn.co/mp3-preview/5eac45a91e7ffbd3d296f23587f861c9dfb3a187?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:6qL5UWxRSQYml9O99ozoLv"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:23:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+                "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+                "name": "BROCKHAMPTON",
+                "type": "artist",
+                "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f"
+            },
+            "href": "https://api.spotify.com/v1/albums/1jToVugwBEzcak8gJNZG2f",
+            "id": "1jToVugwBEzcak8gJNZG2f",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27346f07fa4f28bf824840ddacb",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0246f07fa4f28bf824840ddacb",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485146f07fa4f28bf824840ddacb",
+                "width": 64
+              }
+            ],
+            "name": "GINGER",
+            "release_date": "2019-08-23",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:1jToVugwBEzcak8gJNZG2f"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+              "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+              "name": "BROCKHAMPTON",
+              "type": "artist",
+              "uri": "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 204533,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USRC11901564"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6U0FIYXCQ3TGrk4tFpLrEA",
+          "id": "6U0FIYXCQ3TGrk4tFpLrEA",
+          "is_local": false,
+          "is_playable": true,
+          "name": "SUGAR",
+          "popularity": 83,
+          "preview_url": "https://p.scdn.co/mp3-preview/5ede99e4306c75ac7b99f277807fb91c2ce5c785?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:6U0FIYXCQ3TGrk4tFpLrEA"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:23:25Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+                },
+                "href": "https://api.spotify.com/v1/artists/0eDvMgVFoNV3TpwtrVCoTj",
+                "id": "0eDvMgVFoNV3TpwtrVCoTj",
+                "name": "Pop Smoke",
+                "type": "artist",
+                "uri": "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+            },
+            "href": "https://api.spotify.com/v1/albums/4MZnolldq7ciKKlbVDzLm5",
+            "id": "4MZnolldq7ciKKlbVDzLm5",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0262a57823eced1cb4fd93b2c1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485162a57823eced1cb4fd93b2c1",
+                "width": 64
+              }
+            ],
+            "name": "Meet The Woo 2",
+            "release_date": "2020-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:4MZnolldq7ciKKlbVDzLm5"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+              },
+              "href": "https://api.spotify.com/v1/artists/0eDvMgVFoNV3TpwtrVCoTj",
+              "id": "0eDvMgVFoNV3TpwtrVCoTj",
+              "name": "Pop Smoke",
+              "type": "artist",
+              "uri": "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+              },
+              "href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+              "id": "0VRj0yCOv2FXJNP47XQnx5",
+              "name": "Quavo",
+              "type": "artist",
+              "uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 165640,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USUM72002026"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7rSnKi58HPIVC0FVyh04Q1"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7rSnKi58HPIVC0FVyh04Q1",
+          "id": "7rSnKi58HPIVC0FVyh04Q1",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Shake The Room (feat. Quavo)",
+          "popularity": 77,
+          "preview_url": "https://p.scdn.co/mp3-preview/c0a99fbd13588f6696a58a2e1d0286299af933c6?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:7rSnKi58HPIVC0FVyh04Q1"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:23:35Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+                },
+                "href": "https://api.spotify.com/v1/artists/57LYzLEk2LcFghVwuWbcuS",
+                "id": "57LYzLEk2LcFghVwuWbcuS",
+                "name": "Summer Walker",
+                "type": "artist",
+                "uri": "spotify:artist:57LYzLEk2LcFghVwuWbcuS"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+            },
+            "href": "https://api.spotify.com/v1/albums/1qgJNWnPIeK9rx7hF8JCPK",
+            "id": "1qgJNWnPIeK9rx7hF8JCPK",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b5ed9187ac7f8aa281a547e3",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b5ed9187ac7f8aa281a547e3",
+                "width": 64
+              }
+            ],
+            "name": "Over It",
+            "release_date": "2019-10-04",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:1qgJNWnPIeK9rx7hF8JCPK"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+              },
+              "href": "https://api.spotify.com/v1/artists/57LYzLEk2LcFghVwuWbcuS",
+              "id": "57LYzLEk2LcFghVwuWbcuS",
+              "name": "Summer Walker",
+              "type": "artist",
+              "uri": "spotify:artist:57LYzLEk2LcFghVwuWbcuS"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+              },
+              "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+              "id": "2HPaUgqeutzr3jx5a9WyDV",
+              "name": "PARTYNEXTDOOR",
+              "type": "artist",
+              "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 205733,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USUM71919093"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
+          },
+          "href": "https://api.spotify.com/v1/tracks/43IMaycr34ZR5kS8mlL5hH",
+          "id": "43IMaycr34ZR5kS8mlL5hH",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Just Might (with PARTYNEXTDOOR)",
+          "popularity": 64,
+          "preview_url": "https://p.scdn.co/mp3-preview/b496ea3643c8f58f9c4ee01dc765e9a7a93aaa7a?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 11,
+          "type": "track",
+          "uri": "spotify:track:43IMaycr34ZR5kS8mlL5hH"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:23:47Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+                },
+                "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+                "id": "1RyvyyTE3xzB2ZywiAwp0i",
+                "name": "Future",
+                "type": "artist",
+                "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+            },
+            "href": "https://api.spotify.com/v1/albums/5uCEoLCj3ZZZ1EtzQdQWVl",
+            "id": "5uCEoLCj3ZZZ1EtzQdQWVl",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738a01c7b77a34378a62f46402",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028a01c7b77a34378a62f46402",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518a01c7b77a34378a62f46402",
+                "width": 64
+              }
+            ],
+            "name": "Life Is Good (feat. Drake)",
+            "release_date": "2020-01-10",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5uCEoLCj3ZZZ1EtzQdQWVl"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+              },
+              "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+              "id": "1RyvyyTE3xzB2ZywiAwp0i",
+              "name": "Future",
+              "type": "artist",
+              "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+              },
+              "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+              "id": "3TVXtAsR1Inumwj472S9r4",
+              "name": "Drake",
+              "type": "artist",
+              "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 237735,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USSM11914962"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5yY9lUy8nbvjM1Uyo1Uqoc",
+          "id": "5yY9lUy8nbvjM1Uyo1Uqoc",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Life Is Good (feat. Drake)",
+          "popularity": 89,
+          "preview_url": "https://p.scdn.co/mp3-preview/79199a9ab949b5803197efb455c224299d7d5949?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:23:55Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+                },
+                "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+                "id": "2jku7tDXc6XoB6MO2hFuqg",
+                "name": "Tory Lanez",
+                "type": "artist",
+                "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/50BOtM9VCSDbaCN2XruTKv"
+            },
+            "href": "https://api.spotify.com/v1/albums/50BOtM9VCSDbaCN2XruTKv",
+            "id": "50BOtM9VCSDbaCN2XruTKv",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27383f4a3e4288eda2ce0276b6e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0283f4a3e4288eda2ce0276b6e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485183f4a3e4288eda2ce0276b6e",
+                "width": 64
+              }
+            ],
+            "name": "K Lo K (feat. Fivio Foreign)",
+            "release_date": "2020-01-31",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:50BOtM9VCSDbaCN2XruTKv"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+              "id": "2jku7tDXc6XoB6MO2hFuqg",
+              "name": "Tory Lanez",
+              "type": "artist",
+              "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+              },
+              "href": "https://api.spotify.com/v1/artists/14CHVeJGrR5xgUGQFV5BVM",
+              "id": "14CHVeJGrR5xgUGQFV5BVM",
+              "name": "Fivio Foreign",
+              "type": "artist",
+              "uri": "spotify:artist:14CHVeJGrR5xgUGQFV5BVM"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 185419,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USUM72001646"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3TlrDcdC7ydI8mto84R1GW"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3TlrDcdC7ydI8mto84R1GW",
+          "id": "3TlrDcdC7ydI8mto84R1GW",
+          "is_local": false,
+          "is_playable": true,
+          "name": "K Lo K (feat. Fivio Foreign)",
+          "popularity": 61,
+          "preview_url": "https://p.scdn.co/mp3-preview/2aedc78678d1656cde98a867b559e95e09c898e9?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3TlrDcdC7ydI8mto84R1GW"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:26:45Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+                },
+                "href": "https://api.spotify.com/v1/artists/0eDvMgVFoNV3TpwtrVCoTj",
+                "id": "0eDvMgVFoNV3TpwtrVCoTj",
+                "name": "Pop Smoke",
+                "type": "artist",
+                "uri": "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+            },
+            "href": "https://api.spotify.com/v1/albums/4MZnolldq7ciKKlbVDzLm5",
+            "id": "4MZnolldq7ciKKlbVDzLm5",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0262a57823eced1cb4fd93b2c1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485162a57823eced1cb4fd93b2c1",
+                "width": 64
+              }
+            ],
+            "name": "Meet The Woo 2",
+            "release_date": "2020-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:4MZnolldq7ciKKlbVDzLm5"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+              },
+              "href": "https://api.spotify.com/v1/artists/0eDvMgVFoNV3TpwtrVCoTj",
+              "id": "0eDvMgVFoNV3TpwtrVCoTj",
+              "name": "Pop Smoke",
+              "type": "artist",
+              "uri": "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 108160,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USUM72002036"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3DWjFSDEQ9IWz1mj449fB7",
+          "id": "3DWjFSDEQ9IWz1mj449fB7",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Get Back",
+          "popularity": 68,
+          "preview_url": "https://p.scdn.co/mp3-preview/22325bfa6995d27871dfdf766a645ea50c62d12f?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:3DWjFSDEQ9IWz1mj449fB7"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:26:49Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0GzsdiiItPCABfhuFIKiZi"
+            },
+            "href": "https://api.spotify.com/v1/albums/0GzsdiiItPCABfhuFIKiZi",
+            "id": "0GzsdiiItPCABfhuFIKiZi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273053e3b9abf371dedb1ee784b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02053e3b9abf371dedb1ee784b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851053e3b9abf371dedb1ee784b",
+                "width": 64
+              }
+            ],
+            "name": "Get Me",
+            "release_date": "2020-01-28",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:0GzsdiiItPCABfhuFIKiZi"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+              },
+              "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+              "id": "1uNFoZAHBGtllmzznpCI3s",
+              "name": "Justin Bieber",
+              "type": "artist",
+              "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0cGUm45nv7Z6M6qdXYQGTX",
+              "id": "0cGUm45nv7Z6M6qdXYQGTX",
+              "name": "Kehlani",
+              "type": "artist",
+              "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 185418,
+          "episode": false,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USUM72001309"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6zGPytJiZmFuyVq7RTNO9G"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6zGPytJiZmFuyVq7RTNO9G",
+          "id": "6zGPytJiZmFuyVq7RTNO9G",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Get Me",
+          "popularity": 66,
+          "preview_url": "https://p.scdn.co/mp3-preview/1fef46638b7362df6a98db35dc522dc0d61646ad?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:6zGPytJiZmFuyVq7RTNO9G"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:26:59Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+                },
+                "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+                "id": "6Xgp2XMz1fhVYe7i6yNAax",
+                "name": "Trippie Redd",
+                "type": "artist",
+                "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2orYogfKeURqyS1hRP1vZ4"
+            },
+            "href": "https://api.spotify.com/v1/albums/2orYogfKeURqyS1hRP1vZ4",
+            "id": "2orYogfKeURqyS1hRP1vZ4",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a57a6d46a6f7bf838d2e5f32",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a57a6d46a6f7bf838d2e5f32",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a57a6d46a6f7bf838d2e5f32",
+                "width": 64
+              }
+            ],
+            "name": "YELL OH",
+            "release_date": "2020-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:2orYogfKeURqyS1hRP1vZ4"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+              },
+              "href": "https://api.spotify.com/v1/artists/6Xgp2XMz1fhVYe7i6yNAax",
+              "id": "6Xgp2XMz1fhVYe7i6yNAax",
+              "name": "Trippie Redd",
+              "type": "artist",
+              "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+              },
+              "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+              "id": "50co4Is1HCEo8bhOyUWKpn",
+              "name": "Young Thug",
+              "type": "artist",
+              "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 236778,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "QZJ842000061"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/003VDDA7J3Xb2ZFlNx7nIZ"
+          },
+          "href": "https://api.spotify.com/v1/tracks/003VDDA7J3Xb2ZFlNx7nIZ",
+          "id": "003VDDA7J3Xb2ZFlNx7nIZ",
+          "is_local": false,
+          "is_playable": true,
+          "name": "YELL OH",
+          "popularity": 62,
+          "preview_url": "https://p.scdn.co/mp3-preview/1e65dd7ebf3e99d806de8d4ca82625f8509a6caf?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:003VDDA7J3Xb2ZFlNx7nIZ"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      },
+      {
+        "added_at": "2020-02-19T23:27:07Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/h00jimx4c2fa4nd7zwaqr5obv"
+          },
+          "href": "https://api.spotify.com/v1/users/h00jimx4c2fa4nd7zwaqr5obv",
+          "id": "h00jimx4c2fa4nd7zwaqr5obv",
+          "type": "user",
+          "uri": "spotify:user:h00jimx4c2fa4nd7zwaqr5obv"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+                },
+                "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+                "id": "757aE44tKEUQEqRuT6GnEB",
+                "name": "Roddy Ricch",
+                "type": "artist",
+                "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+            },
+            "href": "https://api.spotify.com/v1/albums/52u4anZbHd6UInnmHRFzba",
+            "id": "52u4anZbHd6UInnmHRFzba",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02600adbc750285ea1a8da249f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851600adbc750285ea1a8da249f",
+                "width": 64
+              }
+            ],
+            "name": "Please Excuse Me For Being Antisocial",
+            "release_date": "2019-12-06",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:52u4anZbHd6UInnmHRFzba"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+              },
+              "href": "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+              "id": "757aE44tKEUQEqRuT6GnEB",
+              "name": "Roddy Ricch",
+              "type": "artist",
+              "uri": "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 170994,
+          "episode": false,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "USAT21906987"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/47FhiQXgLU47HDBYUDlHsd"
+          },
+          "href": "https://api.spotify.com/v1/tracks/47FhiQXgLU47HDBYUDlHsd",
+          "id": "47FhiQXgLU47HDBYUDlHsd",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Roll Dice",
+          "popularity": 64,
+          "preview_url": "https://p.scdn.co/mp3-preview/fadeda167c944af9f5b7727151cd17228366a848?cid=774b29d4f13844c495f206cafdad9c86",
+          "track": true,
+          "track_number": 13,
+          "type": "track",
+          "uri": "spotify:track:47FhiQXgLU47HDBYUDlHsd"
+        },
+        "video_thumbnail": {
+          "url": null
+        }
+      }
+    ],
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 19
+  },
+  "type": "playlist",
+  "uri": "spotify:playlist:6iBOHQq18scMsGnLJFkMk0"
+}

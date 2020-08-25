@@ -1,0 +1,436 @@
+{
+  "href": "https://api.spotify.com/v1/albums/7iwGw8ob3YLqZrbKzGFnHi/tracks?offset=0&limit=50&market=US",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 249680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4bJX21zvsGJELwVNf902qk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4bJX21zvsGJELwVNf902qk",
+      "id": "4bJX21zvsGJELwVNf902qk",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Never Know",
+      "preview_url": "https://p.scdn.co/mp3-preview/f2cdb14e03929eb045d0db2c4ad8e8baf5ac476f?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4bJX21zvsGJELwVNf902qk"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211866,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6HmWy7ttkeZGG2KEtt8AqX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6HmWy7ttkeZGG2KEtt8AqX",
+      "id": "6HmWy7ttkeZGG2KEtt8AqX",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Rules",
+      "preview_url": "https://p.scdn.co/mp3-preview/53b31546c86aedc0fa97e3f5f5938dc6cec204d8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6HmWy7ttkeZGG2KEtt8AqX"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 246773,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4AtZRwSR8BOTTQg5ihSggt",
+      "id": "4AtZRwSR8BOTTQg5ihSggt",
+      "is_local": false,
+      "is_playable": true,
+      "name": "PRBLMS",
+      "preview_url": "https://p.scdn.co/mp3-preview/37933b2a5f9c6939565d3be0a1f7d1b8b4bf1322?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4AtZRwSR8BOTTQg5ihSggt"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 263013,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4Sv7Fo4bSpK0tM1WBspz4J"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4Sv7Fo4bSpK0tM1WBspz4J",
+      "id": "4Sv7Fo4bSpK0tM1WBspz4J",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Free",
+      "preview_url": "https://p.scdn.co/mp3-preview/6d4dae496372cdb9d7ac905a5add4a96ce980755?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4Sv7Fo4bSpK0tM1WBspz4J"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215680,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2V8OJ8i3WBh4Los9wG6OKQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2V8OJ8i3WBh4Los9wG6OKQ",
+      "id": "2V8OJ8i3WBh4Los9wG6OKQ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Learn Ya",
+      "preview_url": "https://p.scdn.co/mp3-preview/4dfe0c7c0a571329c42bec91042324892c126741?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:2V8OJ8i3WBh4Los9wG6OKQ"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208320,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4vIhvFLrnDD9fEjpjWs0Ky"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4vIhvFLrnDD9fEjpjWs0Ky",
+      "id": "4vIhvFLrnDD9fEjpjWs0Ky",
+      "is_local": false,
+      "is_playable": true,
+      "name": "MTFU",
+      "preview_url": "https://p.scdn.co/mp3-preview/aef3e61eb000186ea3eff3b05457072370b01c19?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:4vIhvFLrnDD9fEjpjWs0Ky"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 252893,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5irqvOUbWsUefjZ8KPSQ66"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5irqvOUbWsUefjZ8KPSQ66",
+      "id": "5irqvOUbWsUefjZ8KPSQ66",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Luving U",
+      "preview_url": "https://p.scdn.co/mp3-preview/eea5ca3e05f39e93682f281845f87d2ee2ef5aa3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:5irqvOUbWsUefjZ8KPSQ66"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 215000,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1S4sxNGmCASkyRI08YhLtT"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1S4sxNGmCASkyRI08YhLtT",
+      "id": "1S4sxNGmCASkyRI08YhLtT",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Gettin' Old",
+      "preview_url": "https://p.scdn.co/mp3-preview/5c8b920d14c3288705ef8735267fe1a25fdab081?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:1S4sxNGmCASkyRI08YhLtT"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 206133,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wc4wFgsQUDD79jItn4cHs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2wc4wFgsQUDD79jItn4cHs",
+      "id": "2wc4wFgsQUDD79jItn4cHs",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Worst Luck",
+      "preview_url": "https://p.scdn.co/mp3-preview/40b16542efa3d9c871e9a99ed240a1130a9836dc?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2wc4wFgsQUDD79jItn4cHs"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 211960,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1MQ8ydvrTnn2QJgXFATJvD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1MQ8ydvrTnn2QJgXFATJvD",
+      "id": "1MQ8ydvrTnn2QJgXFATJvD",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ex Calling",
+      "preview_url": "https://p.scdn.co/mp3-preview/e723632e0548da83dc203ba7390841a8206f9f9e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:1MQ8ydvrTnn2QJgXFATJvD"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 553853,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4r8BzCnB6mDdPcJuSmSovv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4r8BzCnB6mDdPcJuSmSovv",
+      "id": "4r8BzCnB6mDdPcJuSmSovv",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Alone / EA6",
+      "preview_url": "https://p.scdn.co/mp3-preview/2c0b86817941e2158bfdf72eee20185c738beb24?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:4r8BzCnB6mDdPcJuSmSovv"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 190843,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ntHUBYRHjQmmJDioSwsUg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2ntHUBYRHjQmmJDioSwsUg",
+      "id": "2ntHUBYRHjQmmJDioSwsUg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Glock Six - Bonus",
+      "preview_url": "https://p.scdn.co/mp3-preview/f1a844b8d644ce40ef4ca8825cd25b89191e4e78?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2ntHUBYRHjQmmJDioSwsUg"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          },
+          "href": "https://api.spotify.com/v1/artists/2xe8IXgCTpwHE3eA9hTs4n",
+          "id": "2xe8IXgCTpwHE3eA9hTs4n",
+          "name": "BANKS",
+          "type": "artist",
+          "uri": "spotify:artist:2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dn1SdbwnCliatWZ8Ls3O5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2dn1SdbwnCliatWZ8Ls3O5",
+      "id": "2dn1SdbwnCliatWZ8Ls3O5",
+      "is_local": false,
+      "is_playable": true,
+      "name": "In Between (feat. BANKS) - Bonus",
+      "preview_url": "https://p.scdn.co/mp3-preview/360097cce23345bba19dc4a92b50eb2a34390753?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:2dn1SdbwnCliatWZ8Ls3O5"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IVAbR2w4JJNJDDRFP3E83",
+          "id": "4IVAbR2w4JJNJDDRFP3E83",
+          "name": "6LACK",
+          "type": "artist",
+          "uri": "spotify:artist:4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          },
+          "href": "https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy",
+          "id": "3aQeKQSyrW4qWr35idm0cy",
+          "name": "T-Pain",
+          "type": "artist",
+          "uri": "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 286956,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7HDpgbWMVzI8bEbdldw3cs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7HDpgbWMVzI8bEbdldw3cs",
+      "id": "7HDpgbWMVzI8bEbdldw3cs",
+      "is_local": false,
+      "is_playable": true,
+      "name": "One Way (feat. T-Pain) - Bonus",
+      "preview_url": "https://p.scdn.co/mp3-preview/107e6ec52ba11824e220559609a5e524e5eecd9e?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:7HDpgbWMVzI8bEbdldw3cs"
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 14
+}

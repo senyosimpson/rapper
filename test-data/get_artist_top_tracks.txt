@@ -1,0 +1,834 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+        },
+        "href": "https://api.spotify.com/v1/albums/6OQ9gBfg5EXeNAEwGSs6jK",
+        "id": "6OQ9gBfg5EXeNAEwGSs6jK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+            "width": 64
+          }
+        ],
+        "name": "Dark Lane Demo Tapes",
+        "release_date": "2020-05-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 247058,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12001281"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/466cKvZn1j45IpxDdYZqdA",
+      "id": "466cKvZn1j45IpxDdYZqdA",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Toosie Slide",
+      "popularity": 87,
+      "preview_url": "https://p.scdn.co/mp3-preview/679061c72b6e17c6026d905e23c9219b0c9cacc3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:466cKvZn1j45IpxDdYZqdA"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+            },
+            "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+            "id": "1RyvyyTE3xzB2ZywiAwp0i",
+            "name": "Future",
+            "type": "artist",
+            "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        },
+        "href": "https://api.spotify.com/v1/albums/5uCEoLCj3ZZZ1EtzQdQWVl",
+        "id": "5uCEoLCj3ZZZ1EtzQdQWVl",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a01c7b77a34378a62f46402",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a01c7b77a34378a62f46402",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a01c7b77a34378a62f46402",
+            "width": 64
+          }
+        ],
+        "name": "Life Is Good (feat. Drake)",
+        "release_date": "2020-01-10",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist",
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 237735,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USSM11914962"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5yY9lUy8nbvjM1Uyo1Uqoc",
+      "id": "5yY9lUy8nbvjM1Uyo1Uqoc",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Life Is Good (feat. Drake)",
+      "popularity": 89,
+      "preview_url": "https://p.scdn.co/mp3-preview/79199a9ab949b5803197efb455c224299d7d5949?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+        },
+        "href": "https://api.spotify.com/v1/albums/6OQ9gBfg5EXeNAEwGSs6jK",
+        "id": "6OQ9gBfg5EXeNAEwGSs6jK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+            "width": 64
+          }
+        ],
+        "name": "Dark Lane Demo Tapes",
+        "release_date": "2020-05-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          },
+          "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+          "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+          "name": "Giveon",
+          "type": "artist",
+          "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 220487,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12001407"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4wVOKKEHUJxHCFFNUWDn0B",
+      "id": "4wVOKKEHUJxHCFFNUWDn0B",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Chicago Freestyle (feat. Giveon)",
+      "popularity": 89,
+      "preview_url": "https://p.scdn.co/mp3-preview/5dafb0d15031bcba58fef36bc30f7cfd6b31892d?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4wVOKKEHUJxHCFFNUWDn0B"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
+        },
+        "href": "https://api.spotify.com/v1/albums/00HZxSA1sOS9T3nA950sg4",
+        "id": "00HZxSA1sOS9T3nA950sg4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023f3b653b0a7b9e889a712c3d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513f3b653b0a7b9e889a712c3d",
+            "width": 64
+          }
+        ],
+        "name": "The Best In The World Pack",
+        "release_date": "2019-06-15",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:00HZxSA1sOS9T3nA950sg4"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          },
+          "href": "https://api.spotify.com/v1/artists/1sBkRIssrMs1AbVkOJbc7a",
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist",
+          "uri": "spotify:artist:1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205426,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM51900318"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5ry2OE6R2zPQFDO85XkgRb",
+      "id": "5ry2OE6R2zPQFDO85XkgRb",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Money In The Grave (Drake ft. Rick Ross)",
+      "popularity": 85,
+      "preview_url": "https://p.scdn.co/mp3-preview/b646c809227bb466c7a365469e66693c34d820c2?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:5ry2OE6R2zPQFDO85XkgRb"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        },
+        "href": "https://api.spotify.com/v1/albums/1ATL5GLyefJaxhQzSPVrLX",
+        "id": "1ATL5GLyefJaxhQzSPVrLX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27323ddce858fdfad46782143e8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0223ddce858fdfad46782143e8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485123ddce858fdfad46782143e8",
+            "width": 64
+          }
+        ],
+        "name": "Scorpion",
+        "release_date": "2018-06-29",
+        "release_date_precision": "day",
+        "total_tracks": 25,
+        "type": "album",
+        "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 198973,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM51800004"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6DCZcSspjsKoFjzjrWoCdn",
+      "id": "6DCZcSspjsKoFjzjrWoCdn",
+      "is_local": false,
+      "is_playable": true,
+      "name": "God's Plan",
+      "popularity": 84,
+      "preview_url": "https://p.scdn.co/mp3-preview/31210c42323914bd3ef87df4d817a1a184cc7ae0?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:6DCZcSspjsKoFjzjrWoCdn"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+        },
+        "href": "https://api.spotify.com/v1/albums/6OQ9gBfg5EXeNAEwGSs6jK",
+        "id": "6OQ9gBfg5EXeNAEwGSs6jK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+            "width": 64
+          }
+        ],
+        "name": "Dark Lane Demo Tapes",
+        "release_date": "2020-05-01",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          },
+          "href": "https://api.spotify.com/v1/artists/699OTQXzgjhIYAHMy9RyPD",
+          "id": "699OTQXzgjhIYAHMy9RyPD",
+          "name": "Playboi Carti",
+          "type": "artist",
+          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 149077,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUG12001746"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Kj17Afjo1OKJYpf5VzCeo",
+      "id": "6Kj17Afjo1OKJYpf5VzCeo",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Pain 1993 (with Playboi Carti)",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/6222213cfc19344829bb85dadf2127ee78c23e05?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:6Kj17Afjo1OKJYpf5VzCeo"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+        },
+        "href": "https://api.spotify.com/v1/albums/40GMAhriYJRO1rsY4YdrZb",
+        "id": "40GMAhriYJRO1rsY4YdrZb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737a7e346587596ca71fa8f4a1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027a7e346587596ca71fa8f4a1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517a7e346587596ca71fa8f4a1",
+            "width": 64
+          }
+        ],
+        "name": "Views",
+        "release_date": "2016-05-06",
+        "release_date_precision": "day",
+        "total_tracks": 20,
+        "type": "album",
+        "uri": "spotify:album:40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp",
+          "id": "3tVQdUvClmAT7URs9V3rsp",
+          "name": "WizKid",
+          "type": "artist",
+          "uri": "spotify:artist:3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+          },
+          "href": "https://api.spotify.com/v1/artists/77DAFfvm3O9zT5dIoG0eIO",
+          "id": "77DAFfvm3O9zT5dIoG0eIO",
+          "name": "Kyla",
+          "type": "artist",
+          "uri": "spotify:artist:77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173986,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USCM51600028"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1zi7xx7UVEFkmKfv06H8x0",
+      "id": "1zi7xx7UVEFkmKfv06H8x0",
+      "is_local": false,
+      "is_playable": true,
+      "name": "One Dance",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/98bbb3917fc0174ef2a8853598e14f9282dc0019?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        },
+        "href": "https://api.spotify.com/v1/albums/1ATL5GLyefJaxhQzSPVrLX",
+        "id": "1ATL5GLyefJaxhQzSPVrLX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27323ddce858fdfad46782143e8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0223ddce858fdfad46782143e8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485123ddce858fdfad46782143e8",
+            "width": 64
+          }
+        ],
+        "name": "Scorpion",
+        "release_date": "2018-06-29",
+        "release_date_precision": "day",
+        "total_tracks": 25,
+        "type": "album",
+        "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238614,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM51800191"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0TlLq3lA83rQOYtrqBqSct",
+      "id": "0TlLq3lA83rQOYtrqBqSct",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Nonstop",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/8d3527c9ba2a39b8161ad437939abf0be399f442?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:0TlLq3lA83rQOYtrqBqSct"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        },
+        "href": "https://api.spotify.com/v1/albums/1ATL5GLyefJaxhQzSPVrLX",
+        "id": "1ATL5GLyefJaxhQzSPVrLX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27323ddce858fdfad46782143e8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0223ddce858fdfad46782143e8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485123ddce858fdfad46782143e8",
+            "width": 64
+          }
+        ],
+        "name": "Scorpion",
+        "release_date": "2018-06-29",
+        "release_date_precision": "day",
+        "total_tracks": 25,
+        "type": "album",
+        "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 217925,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM51800206"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2G7V7zsVDxg1yRsu7Ew9RJ",
+      "id": "2G7V7zsVDxg1yRsu7Ew9RJ",
+      "is_local": false,
+      "is_playable": true,
+      "name": "In My Feelings",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/9468f3298e0e93bc99712c2b16b29b3939a7d188?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+        },
+        "href": "https://api.spotify.com/v1/albums/1lXY618HWkwYKJWBRYR4MK",
+        "id": "1lXY618HWkwYKJWBRYR4MK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514f0fd9dad63977146e685700",
+            "width": 64
+          }
+        ],
+        "name": "More Life",
+        "release_date": "2017-03-18",
+        "release_date_precision": "day",
+        "total_tracks": 22,
+        "type": "album",
+        "uri": "spotify:album:1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist",
+          "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 298940,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USCM51700072"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5mCPDVBb16L4XQwDdbRUpz",
+      "id": "5mCPDVBb16L4XQwDdbRUpz",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Passionfruit",
+      "popularity": 80,
+      "preview_url": "https://p.scdn.co/mp3-preview/ec46afcb58baf2fa4a05e4ca62c2b77bbb53e3c7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz"
+    }
+  ]
+}

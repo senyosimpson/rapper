@@ -1,0 +1,409 @@
+{
+  "message": "Enjoy your Saturday night",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?country=US&timestamp=2020-07-04T23%3A19%3A38&offset=0&limit=50",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "Hit the dance floor with all the bops from yesterday and today!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZQaaqNMbbXa"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZQaaqNMbbXa",
+        "id": "37i9dQZF1DWZQaaqNMbbXa",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002781ac43d0cb6f4b9022f8044",
+            "width": null
+          }
+        ],
+        "name": "Dance Pop",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5MzkwNDc2NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZQaaqNMbbXa/tracks",
+          "total": 116
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZQaaqNMbbXa"
+      },
+      {
+        "collaborative": false,
+        "description": "Turn up with the biggest party tracks of the '90s and '00s.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8ky12eWIvcW"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8ky12eWIvcW",
+        "id": "37i9dQZF1DX8ky12eWIvcW",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000270360cd384e89a266c8480a1",
+            "width": null
+          }
+        ],
+        "name": "Throwback Jams",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5MzkwNDc2NiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8ky12eWIvcW/tracks",
+          "total": 93
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX8ky12eWIvcW"
+      },
+      {
+        "collaborative": false,
+        "description": "The official voice of generation next. Cover: <a href=\"spotify:track:5RqR4ZCCKJDcBLIn4sih9l\">Sleepy Hallow</a>",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2RxBh64BHjQ",
+        "id": "37i9dQZF1DX2RxBh64BHjQ",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002c03f65172aa68b7c536e695f",
+            "width": null
+          }
+        ],
+        "name": "Most Necessary",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5Mzc0ODg2MCwwMDAwMDJkODAwMDAwMTczMTJkNWFkODUwMDAwMDE3MzEwZmJjOWNi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2RxBh64BHjQ/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2RxBh64BHjQ"
+      },
+      {
+        "collaborative": false,
+        "description": "Anthems to celebrate the culture!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVcbzTgVpNRm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVcbzTgVpNRm",
+        "id": "37i9dQZF1DWVcbzTgVpNRm",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000024d9403275950bf74e42df37a",
+            "width": null
+          }
+        ],
+        "name": "Latin Party Anthems",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5MzkwNDcyMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVcbzTgVpNRm/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVcbzTgVpNRm"
+      },
+      {
+        "collaborative": false,
+        "description": "Music from Nashville's youth based artistry.  Enjoy! Cover: Ian McConnell",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTvM9hRJYH10",
+        "id": "37i9dQZF1DWTvM9hRJYH10",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000028e40095658927ea7610d58f6",
+            "width": null
+          }
+        ],
+        "name": "Young Music City",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5MzU3NjA2MCwwMDAwMDAxZjAwMDAwMTczMDg4OGY0ZjQwMDAwMDE3MzA1ZTI0NTJl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTvM9hRJYH10/tracks",
+          "total": 71
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTvM9hRJYH10"
+      },
+      {
+        "collaborative": false,
+        "description": "That real hip-hop. Cover: Freddie Gibbs",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5hR0J49CmXC"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5hR0J49CmXC",
+        "id": "37i9dQZF1DX5hR0J49CmXC",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002a5bc6efdb8e4926ac8ecf9d2",
+            "width": null
+          }
+        ],
+        "name": "Mind Right",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5Mzc1MDY4OSwwMDAwMDEwNDAwMDAwMTczMTJmMTk1OGYwMDAwMDE3Mjg0YWI0MTY4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5hR0J49CmXC/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5hR0J49CmXC"
+      },
+      {
+        "collaborative": false,
+        "description": "A mega mix of 75 of your favorite songs from the last few years! Cover: Ariana Grande",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbYM3nMM0oPk",
+        "id": "37i9dQZF1DXbYM3nMM0oPk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000026aef7fab3f837088a74271b9",
+            "width": null
+          }
+        ],
+        "name": "Mega Hit Mix",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5MzkwNDc2NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbYM3nMM0oPk/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXbYM3nMM0oPk"
+      },
+      {
+        "collaborative": false,
+        "description": "The best indie tracks right now. Cover: HAIM",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2Nc3B70tvx0",
+        "id": "37i9dQZF1DX2Nc3B70tvx0",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000022c56f11da09e782cabb7e2ef",
+            "width": null
+          }
+        ],
+        "name": "Ultimate Indie",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5Mzc0ODg2MCwwMDAwMDBkYjAwMDAwMTczMTJkNWFlNTYwMDAwMDE3Mjc3OTExZDFi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2Nc3B70tvx0/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2Nc3B70tvx0"
+      },
+      {
+        "collaborative": false,
+        "description": "Listen to easy songs from your favorite artists! Cover: Ed Sheeran",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTwnEm1IYyoj",
+        "id": "37i9dQZF1DWTwnEm1IYyoj",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000028a8cd980c91cdb58bd61e3f3",
+            "width": null
+          }
+        ],
+        "name": "Soft Pop Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5MTkyNzIxNSwwMDAwMDA2YTAwMDAwMTcyYTY0MTk0NWIwMDAwMDE3MGZlNDVjYzIy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTwnEm1IYyoj/tracks",
+          "total": 234
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTwnEm1IYyoj"
+      },
+      {
+        "collaborative": false,
+        "description": "Not so fast...<a href=\"spotify:genre:edm_dance\">bounce</a>a lil.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVY4eLfA3XFQ",
+        "id": "37i9dQZF1DWVY4eLfA3XFQ",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000027e2b4034d5178af741cf3ca3",
+            "width": null
+          }
+        ],
+        "name": "Swag House",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5MzkwNDc0MywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVY4eLfA3XFQ/tracks",
+          "total": 300
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVY4eLfA3XFQ"
+      },
+      {
+        "collaborative": false,
+        "description": "The ultimate rock party playlist!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8FwnYE6PRvL"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8FwnYE6PRvL",
+        "id": "37i9dQZF1DX8FwnYE6PRvL",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002feb66cd1f6632ecfa89b3e8c",
+            "width": null
+          }
+        ],
+        "name": "Rock Party",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU5MzkwNDc1NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8FwnYE6PRvL/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX8FwnYE6PRvL"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11
+  }
+}

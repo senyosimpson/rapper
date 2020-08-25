@@ -1,0 +1,76 @@
+{
+  "album": {
+    "album_type": "single",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eXZu6O7nAUA5z6vLV8NKI",
+        "id": "6eXZu6O7nAUA5z6vLV8NKI",
+        "name": "Little Simz",
+        "type": "artist",
+        "uri": "spotify:artist:6eXZu6O7nAUA5z6vLV8NKI"
+      }
+    ],
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
+    },
+    "href": "https://api.spotify.com/v1/albums/6QrGmXbUtjyekuW83gXBBb",
+    "id": "6QrGmXbUtjyekuW83gXBBb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d0bb66e4667e13d4fdc739d6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d0bb66e4667e13d4fdc739d6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d0bb66e4667e13d4fdc739d6",
+        "width": 64
+      }
+    ],
+    "name": "Drop 6",
+    "release_date": "2020-05-06",
+    "release_date_precision": "day",
+    "total_tracks": 5,
+    "type": "album",
+    "uri": "spotify:album:6QrGmXbUtjyekuW83gXBBb"
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eXZu6O7nAUA5z6vLV8NKI",
+      "id": "6eXZu6O7nAUA5z6vLV8NKI",
+      "name": "Little Simz",
+      "type": "artist",
+      "uri": "spotify:artist:6eXZu6O7nAUA5z6vLV8NKI"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 135322,
+  "explicit": true,
+  "external_ids": {
+    "isrc": "GBKPL2000240"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2SVIkGkmY9ZPZFniCwa7ar"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2SVIkGkmY9ZPZFniCwa7ar",
+  "id": "2SVIkGkmY9ZPZFniCwa7ar",
+  "is_local": false,
+  "is_playable": true,
+  "name": "you should call mum",
+  "popularity": 49,
+  "preview_url": "https://p.scdn.co/mp3-preview/e9ece17de2ed9582ea3486195111370ed91994ee?cid=774b29d4f13844c495f206cafdad9c86",
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:2SVIkGkmY9ZPZFniCwa7ar"
+}

@@ -1,0 +1,594 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+      },
+      "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+      "id": "1FvjvACFvko2Z91IvDljrx",
+      "name": "Mick Jenkins",
+      "type": "artist",
+      "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+    }
+  ],
+  "copyrights": [
+    {
+      "text": "© 2016 Free Nation / Cinematic Music Group",
+      "type": "C"
+    },
+    {
+      "text": "℗ 2016 Free Nation / Cinematic Music Group",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00886446081519"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/2IjEb3Ob7GHEpLwSgaWJiX",
+  "id": "2IjEb3Ob7GHEpLwSgaWJiX",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd978daf9b12c3885f6117cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd978daf9b12c3885f6117cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd978daf9b12c3885f6117cf",
+      "width": 64
+    }
+  ],
+  "label": "Cinematic Music Group",
+  "name": "The Healing Component",
+  "popularity": 56,
+  "release_date": "2016-09-23",
+  "release_date_precision": "day",
+  "total_tracks": 15,
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2IjEb3Ob7GHEpLwSgaWJiX/tracks?offset=0&limit=50&market=US",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 302500,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EtAxcQoRc5SwDqUQ5HDzU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6EtAxcQoRc5SwDqUQ5HDzU",
+        "id": "6EtAxcQoRc5SwDqUQ5HDzU",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Healing Component",
+        "preview_url": "https://p.scdn.co/mp3-preview/4740dad20e87bacd13c76af9c891cda64189c401?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6EtAxcQoRc5SwDqUQ5HDzU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 233015,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7HAwvdJaEUnRFb2hxc8Iz5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HAwvdJaEUnRFb2hxc8Iz5",
+        "id": "7HAwvdJaEUnRFb2hxc8Iz5",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Spread Love",
+        "preview_url": "https://p.scdn.co/mp3-preview/96b1e03378e0ae6ceb94206d443e8eee738933d4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7HAwvdJaEUnRFb2hxc8Iz5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220835,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/35V0zZq4Sw8PRLMjiBIaNk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/35V0zZq4Sw8PRLMjiBIaNk",
+        "id": "35V0zZq4Sw8PRLMjiBIaNk",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Daniels Bloom",
+        "preview_url": "https://p.scdn.co/mp3-preview/d7b783151c68cacce9cb10016291c22f32c3a5a4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:35V0zZq4Sw8PRLMjiBIaNk"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 368896,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3jfBNmL8d0tt338q2DNz1l"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3jfBNmL8d0tt338q2DNz1l",
+        "id": "3jfBNmL8d0tt338q2DNz1l",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Strange Love",
+        "preview_url": "https://p.scdn.co/mp3-preview/ad9a660e562b9c130e0b51a28919a328f0219139?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3jfBNmL8d0tt338q2DNz1l"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 144392,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5K2sTBCUL9DMNmTuCVC3kf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5K2sTBCUL9DMNmTuCVC3kf",
+        "id": "5K2sTBCUL9DMNmTuCVC3kf",
+        "is_local": false,
+        "is_playable": true,
+        "name": "This Type Love?",
+        "preview_url": "https://p.scdn.co/mp3-preview/fd2924704ad7f977053c988ce064789f5af5617a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5K2sTBCUL9DMNmTuCVC3kf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/65dGLGjkw3UbddUg2GKQoZ",
+            "id": "65dGLGjkw3UbddUg2GKQoZ",
+            "name": "BADBADNOTGOOD",
+            "type": "artist",
+            "uri": "spotify:artist:65dGLGjkw3UbddUg2GKQoZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 360502,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/70bx1d7tQbVm768tZKbRhn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70bx1d7tQbVm768tZKbRhn",
+        "id": "70bx1d7tQbVm768tZKbRhn",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Drowning",
+        "preview_url": "https://p.scdn.co/mp3-preview/61bf1c0c7c455e11e883facc2f7011cb5e64837a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:70bx1d7tQbVm768tZKbRhn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tDBgF7W9NkK2ccLalD5jz"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tDBgF7W9NkK2ccLalD5jz",
+            "id": "0tDBgF7W9NkK2ccLalD5jz",
+            "name": "Themind",
+            "type": "artist",
+            "uri": "spotify:artist:0tDBgF7W9NkK2ccLalD5jz"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 157235,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3SaVNpsfW7EHh4DWHBBmFl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SaVNpsfW7EHh4DWHBBmFl",
+        "id": "3SaVNpsfW7EHh4DWHBBmFl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "As Seen in Bethsaida",
+        "preview_url": "https://p.scdn.co/mp3-preview/f0fd46ab0b5b4f5c87440ac6b5871bfa6abab278?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:3SaVNpsfW7EHh4DWHBBmFl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+            },
+            "href": "https://api.spotify.com/v1/artists/5RTLRtXjbXI2lSXc6jxlAz",
+            "id": "5RTLRtXjbXI2lSXc6jxlAz",
+            "name": "Ravyn Lenae",
+            "type": "artist",
+            "uri": "spotify:artist:5RTLRtXjbXI2lSXc6jxlAz"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237045,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5PqVcm1TdqsjXkShVVV7UY",
+        "id": "5PqVcm1TdqsjXkShVVV7UY",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Communicate",
+        "preview_url": "https://p.scdn.co/mp3-preview/faa770697d109d93e50ec8cd720820cf9eca8964?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5PqVcm1TdqsjXkShVVV7UY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 235929,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7KfzWmcmBg73Uu8K0ztEnn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7KfzWmcmBg73Uu8K0ztEnn",
+        "id": "7KfzWmcmBg73Uu8K0ztEnn",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Plugged",
+        "preview_url": "https://p.scdn.co/mp3-preview/76e106b6887d1c0a623dd51b7ea0b3de6647548d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:7KfzWmcmBg73Uu8K0ztEnn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tDBgF7W9NkK2ccLalD5jz"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tDBgF7W9NkK2ccLalD5jz",
+            "id": "0tDBgF7W9NkK2ccLalD5jz",
+            "name": "Themind",
+            "type": "artist",
+            "uri": "spotify:artist:0tDBgF7W9NkK2ccLalD5jz"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195079,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2XkYcbrEv83s6wD0AkeCbz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2XkYcbrEv83s6wD0AkeCbz",
+        "id": "2XkYcbrEv83s6wD0AkeCbz",
+        "is_local": false,
+        "is_playable": true,
+        "name": "1000 Xans",
+        "preview_url": "https://p.scdn.co/mp3-preview/44197e84ebd104de8ed06dd304456d149432ed16?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2XkYcbrEv83s6wD0AkeCbz"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tDBgF7W9NkK2ccLalD5jz"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tDBgF7W9NkK2ccLalD5jz",
+            "id": "0tDBgF7W9NkK2ccLalD5jz",
+            "name": "Themind",
+            "type": "artist",
+            "uri": "spotify:artist:0tDBgF7W9NkK2ccLalD5jz"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284239,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7iLa4djDVAwhe5Vim7NhZf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7iLa4djDVAwhe5Vim7NhZf",
+        "id": "7iLa4djDVAwhe5Vim7NhZf",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Prosperity",
+        "preview_url": "https://p.scdn.co/mp3-preview/010cb3bbfbe4287b7f8f0b33057bfddc96ab8fc1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7iLa4djDVAwhe5Vim7NhZf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 233374,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ctmRgh71PpU5wz5q5K0tO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ctmRgh71PpU5wz5q5K0tO",
+        "id": "7ctmRgh71PpU5wz5q5K0tO",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fall Through",
+        "preview_url": "https://p.scdn.co/mp3-preview/4f8053bed412142fc0d14dc292a9a89466828080?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:7ctmRgh71PpU5wz5q5K0tO"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3X3qYLvekZSdkuWSMsbSr3"
+            },
+            "href": "https://api.spotify.com/v1/artists/3X3qYLvekZSdkuWSMsbSr3",
+            "id": "3X3qYLvekZSdkuWSMsbSr3",
+            "name": "J-Stock",
+            "type": "artist",
+            "uri": "spotify:artist:3X3qYLvekZSdkuWSMsbSr3"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216594,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2DlR6flZreklDX66KfWN2R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2DlR6flZreklDX66KfWN2R",
+        "id": "2DlR6flZreklDX66KfWN2R",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Love, Robert Horry",
+        "preview_url": "https://p.scdn.co/mp3-preview/0f283d7eae5aa9f8ff377a724654479c31eb24f5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:2DlR6flZreklDX66KfWN2R"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+            },
+            "href": "https://api.spotify.com/v1/artists/1EpyA68dKpjf7jXmQL88Hy",
+            "id": "1EpyA68dKpjf7jXmQL88Hy",
+            "name": "Noname",
+            "type": "artist",
+            "uri": "spotify:artist:1EpyA68dKpjf7jXmQL88Hy"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+            },
+            "href": "https://api.spotify.com/v1/artists/3UjPnt2nRmw10N58bBeNOg",
+            "id": "3UjPnt2nRmw10N58bBeNOg",
+            "name": "Xavier Omär",
+            "type": "artist",
+            "uri": "spotify:artist:3UjPnt2nRmw10N58bBeNOg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 263087,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4vQZybgKdjn1DvLcT9LxvE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4vQZybgKdjn1DvLcT9LxvE",
+        "id": "4vQZybgKdjn1DvLcT9LxvE",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Angles",
+        "preview_url": "https://p.scdn.co/mp3-preview/fedc652485ee8e235d3e22ac7d3917811c266800?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:4vQZybgKdjn1DvLcT9LxvE"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+            "id": "1FvjvACFvko2Z91IvDljrx",
+            "name": "Mick Jenkins",
+            "type": "artist",
+            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5TdAJhP3q5WwIy9wj4EsxT"
+            },
+            "href": "https://api.spotify.com/v1/artists/5TdAJhP3q5WwIy9wj4EsxT",
+            "id": "5TdAJhP3q5WwIy9wj4EsxT",
+            "name": "Michael Anthony",
+            "type": "artist",
+            "uri": "spotify:artist:5TdAJhP3q5WwIy9wj4EsxT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 290349,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4E5avB6M2QNc5wDeRway2o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4E5avB6M2QNc5wDeRway2o",
+        "id": "4E5avB6M2QNc5wDeRway2o",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fucked Up Outro",
+        "preview_url": "https://p.scdn.co/mp3-preview/a332b36618fd7de39fe3a632b42fd258997daf6b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:4E5avB6M2QNc5wDeRway2o"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 15
+  },
+  "type": "album",
+  "uri": "spotify:album:2IjEb3Ob7GHEpLwSgaWJiX"
+}
